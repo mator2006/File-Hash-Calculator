@@ -51,7 +51,12 @@ A lightweight Windows tool that allows users to quickly calculate **MD5** and **
 
 ### **🌐 适用平台 / Supported Platforms**  
 - **Windows 10/11** (x64 & x86)  
-- **.NET 9.0+**  
+- **.NET 9.0+**
+![01](https://github.com/user-attachments/assets/531fe101-0508-42be-96d5-d2f696e9b420)
+![02](https://github.com/user-attachments/assets/16375e5d-358e-4ee3-a8fa-6f9f1f92d143)
+
+
+
 
 ### **📜 开源协议 / License**  
 **MIT License** - 自由使用和修改 / Free to use and modify  
