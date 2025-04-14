@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\HashCalculator]
+@="计算哈希值"
+"Icon"="\"C:\\Program Files\\hashswin\\HashCalculator.exe\""
+
+[HKEY_CLASSES_ROOT\*\shell\HashCalculator\command]
+@="\"C:\\Program Files\\hashswin\\HashCalculator.exe\" \"%1\""
